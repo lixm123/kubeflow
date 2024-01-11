@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/nginx-ingress-controller:v1.9.0
+FROM registry.k8s.io/nginx-ingress-controller:v1.9.0
